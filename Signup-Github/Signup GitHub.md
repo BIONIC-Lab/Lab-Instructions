@@ -7,5 +7,5 @@
 5. Add a repository to local, for example [Lab-instructions](https://github.com/BIONIC-Lab/Lab-Instructions). Follow the [instructions](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop)
 6. **Fetch origin**: fetch changes from the romotes
 7. After making changes to the local files, **Commit to master**
-8. 
+8. **Push origin**: push the changes to the remotes
 

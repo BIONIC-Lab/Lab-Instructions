@@ -21,5 +21,5 @@
 
 ## Sign up GitHub
 
-Click [here](./Signup-Github/Signup GitHub.md)
+Click [here](./Signup-Github/Signup-GitHub.md)
 
